@@ -1,3 +1,10 @@
 - We who cut mere stones must always be envisioning cathedrals. - *Quarry worker’s creed*
 - [Kaizen](https://www.techtarget.com/searcherp/definition/kaizen-or-continuous-improvement#:~:text=Kaizen%20is%20a%20compound%20of,War%20II%20Japanese%20quality%20circles.)
 - [The Broken Window Theory](https://en.m.wikipedia.org/wiki/Broken_windows_theory)
+- Knowledge is an expiring asset.
+- Ways to learn:
+	- one new language a year
+	- one technical book each quarter
+	- one non-technical book each quarter 
+	- classes
+	- networking 

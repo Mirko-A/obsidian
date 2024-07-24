@@ -5,4 +5,5 @@
 5. Be a Catalyst for Change
 6. Remember the Big Picture
 7. Make Quality a Requirements Issue
-8. 
+8. Invest Regularly in Your Knowledge Portfolio
+9. Critically Analyze What You Read and Hear
