@@ -8,3 +8,7 @@
 	- one non-technical book each quarter 
 	- classes
 	- networking 
+- WISDOM acrostic for communication
+- Do not duplicate knowledge
+- Code generation for shared types (e.g. in client-server) between languages 
+- Untrustworthy comments are worse than no comments at all

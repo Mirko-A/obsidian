@@ -7,3 +7,5 @@
 7. Make Quality a Requirements Issue
 8. Invest Regularly in Your Knowledge Portfolio
 9. Critically Analyze What You Read and Hear
+10. It’s Both What You Say and the Way You Say It
+11. DRY —Don’t Repeat Yourself
