@@ -11,3 +11,4 @@
 11. DRY —Don’t Repeat Yourself
 12. Make It Easy to Reuse
 13. Eliminate Effects Between Unrelated Things
+14. There Are No Final Decisions
