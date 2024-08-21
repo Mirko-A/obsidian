@@ -12,4 +12,8 @@
 - Do not duplicate knowledge
 - Code generation for shared types (e.g. in client-server) between languages 
 - Untrustworthy comments are worse than no comments at all
+- When a metric becomes a target, it ceases to be a good metric
+- Don’t rely on the properties of things you can’t control
+- Nothing is more dangerous than an idea if it’s the only one you have
+- There Are No Final Decisions
 
