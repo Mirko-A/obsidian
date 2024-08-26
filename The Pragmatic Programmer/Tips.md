@@ -12,3 +12,7 @@
 12. Make It Easy to Reuse
 13. Eliminate Effects Between Unrelated Things
 14. There Are No Final Decisions
+15. Use Tracer Bullets to Find the Target (functional code skeleton)
+16. Prototype to Learn (disposable code)
+17. Program Close to the Problem Domain
+18. Estimate to Avoid Surprises
