@@ -16,4 +16,5 @@
 - Don’t rely on the properties of things you can’t control
 - Nothing is more dangerous than an idea if it’s the only one you have
 - Estimate in appropriate units to convey accuracy confidence (time, latency, memory)
+- Progress, far from consisting in change, depends on retentiveness. Those who cannot remember the past are condemned to repeat it.
 - 

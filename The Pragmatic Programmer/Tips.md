@@ -19,4 +19,5 @@
 19. Iterate the Schedule with the Code
 20. Keep Knowledge in Plain Text 
 21. Use the Power of Command Shells
-22. 
+22. Use a Single Editor Well
+23. Always Use Source Code Control
