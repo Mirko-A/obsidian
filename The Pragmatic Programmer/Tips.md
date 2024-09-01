@@ -16,4 +16,7 @@
 16. Prototype to Learn (disposable code)
 17. Program Close to the Problem Domain
 18. Estimate to Avoid Surprises
-19. Keep Knowledge in Plain Text
+19. Iterate the Schedule with the Code
+20. Keep Knowledge in Plain Text 
+21. Use the Power of Command Shells
+22. 
