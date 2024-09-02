@@ -21,3 +21,5 @@
 21. Use the Power of Command Shells
 22. Use a Single Editor Well
 23. Always Use Source Code Control
+24. Fix the Problem, Not the Blame
+25. Don’t Panic
