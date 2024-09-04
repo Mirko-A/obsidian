@@ -23,3 +23,7 @@
 23. Always Use Source Code Control
 24. Fix the Problem, Not the Blame
 25. Don’t Panic
+26. “select” Isn’t Broken
+27. Don’t Assume It—Prove It
+28. Learn a Text Manipulation Language
+29. 
