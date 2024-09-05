@@ -26,4 +26,7 @@
 26. “select” Isn’t Broken
 27. Don’t Assume It—Prove It
 28. Learn a Text Manipulation Language
-29. 
+29. Write Code That Writes Code
+30. You Can’t Write Perfect Software
+31. Design with Contracts
+32. 
