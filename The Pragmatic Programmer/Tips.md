@@ -29,4 +29,8 @@
 29. Write Code That Writes Code
 30. You Can’t Write Perfect Software
 31. Design with Contracts
-32. 
+32. Crash Early
+33. If It Can’t Happen, Use Assertions to Ensure That It Won't
+34. Use Exceptions for Exceptional Problems
+35. Finish What You Start
+36. 
